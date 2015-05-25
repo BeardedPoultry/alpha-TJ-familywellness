@@ -7,7 +7,7 @@ html {
   box-sizing: inherit; }
 
 header {
-  background-color: #78c041;
+  background-color: #84bf92;
   height: 50px; }
 
 body {
@@ -17,3 +17,9 @@ body {
   background-size: 100%;
   color: lightgray;
   text-align: center; }
+
+.aboutPractice,
+.philContainer,
+aboutMe {
+  width: 40%;
+  position: right; }

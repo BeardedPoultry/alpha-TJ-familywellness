@@ -2,7 +2,7 @@
 @import '../bower_components/neat/app/assets/stylesheets/neat';
 
 header {
-	background-color: rgba(120, 192, 65, 1);
+	background-color: rgba(132, 191, 146, 1);
 	height: 50px;
 }
 body {
@@ -13,4 +13,11 @@ body {
 	background-size: 100%;
 	color: lightgray;
 	text-align: center;
+}
+.aboutPractice,
+.philContainer,
+aboutMe {
+	//background-color: rgba(175, 255, 195, 1);
+	width: 40%;
+	position: right;
 }
