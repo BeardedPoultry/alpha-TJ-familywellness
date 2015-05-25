@@ -2,13 +2,15 @@
 @import '../bower_components/neat/app/assets/stylesheets/neat';
 
 header {
-	background-color: lightgreen;
+	background-color: rgba(120, 192, 65, 1);
 	height: 50px;
 }
 body {
 	margin: 0 auto;
-	background-color: darkred;
-}
-div {
-	background-color: yellow;
+	//background-color: rgba(177, 177, 177, 1);
+	background-image: url("../img/tranq.jpg");
+	background-repeat: none;
+	background-size: 100%;
+	color: lightgray;
+	text-align: center;
 }

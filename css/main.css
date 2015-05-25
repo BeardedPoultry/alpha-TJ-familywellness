@@ -7,12 +7,13 @@ html {
   box-sizing: inherit; }
 
 header {
-  background-color: lightgreen;
+  background-color: #78c041;
   height: 50px; }
 
 body {
   margin: 0 auto;
-  background-color: darkred; }
-
-div {
-  background-color: yellow; }
+  background-image: url("../img/tranq.jpg");
+  background-repeat: none;
+  background-size: 100%;
+  color: lightgray;
+  text-align: center; }
